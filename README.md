@@ -72,3 +72,8 @@ https://github.com/BorjaBalle/analytic-gaussian-mechanism
 
 That upstream implementation is distributed under the Apache License 2.0 and
 implements the analytic calibration method of Balle and Wang (ICML 2018).
+
+
+## Note
+
+This repository included the source codes of the DP mechanisms proposed in the paper. Please reach out to the authors for the experiments that rely on these mechanisms (including the ML experiments in the appendices), as well as for the cluster computing codes.
